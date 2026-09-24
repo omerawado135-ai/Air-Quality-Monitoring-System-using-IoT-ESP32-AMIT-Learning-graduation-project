@@ -43,7 +43,7 @@ This project was built as an IoT graduation project for AMIT Learning.
 
 ## 🎥 Demo
 
-*(Add your project photos or a link to your demo video here)*
+Watch the project demo video: [Air Quality Monitoring System - Demo](https://youtu.be/fCLHMUe8_DI)
 
 ## 👤 Author
 
